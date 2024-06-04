@@ -1,8 +1,9 @@
-module github.com/github/depstubber
+module github.com/gitworkflows/depstubber
 
 go 1.14
 
 require (
+	github.com/github/depstubber v0.0.0-20231102105647-87e272f60ed7
 	github.com/go-enry/go-license-detector/v4 v4.0.0
 	github.com/golang/dep v0.5.4
 	golang.org/x/mod v0.3.0

@@ -60,6 +60,8 @@ github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568/go.mod h1:xEzjJPgXI
 github.com/fogleman/gg v1.2.1-0.20190220221249-0403632d5b90/go.mod h1:R/bRT+9gY/C5z7JzPU0zXsXHKM4/ayA+zqcVNZzPa1k=
 github.com/fsnotify/fsnotify v1.4.7/go.mod h1:jwhsz4b93w/PPRr/qN1Yymfu8t87LnFCMoQvtojpjFo=
 github.com/ghodss/yaml v1.0.0/go.mod h1:4dBDuWmgqj2HViK6kFavaiC9ZROes6MMH2rRYeMEF04=
+github.com/github/depstubber v0.0.0-20231102105647-87e272f60ed7 h1:7Q9DfdGH4fj6mT4yvNWCSze83hJyhuaUKlwoyCz/Ahg=
+github.com/github/depstubber v0.0.0-20231102105647-87e272f60ed7/go.mod h1:CTLHDZ05RAOhMNzC4Y5+fsar/iO7uziaqAg2XiXftTQ=
 github.com/gliderlabs/ssh v0.2.2 h1:6zsha5zo/TWhRhwqCD3+EarCAgZ2yN28ipRnGPnwkI0=
 github.com/gliderlabs/ssh v0.2.2/go.mod h1:U7qILu1NlMHj9FlMhZLlkCdDnU1DBEAqr0aevW3Awn0=
 github.com/go-enry/go-license-detector/v4 v4.0.0 h1:HJfc2AEJ3pf09zp9sR9BvWpa4+2mMX07dxBBH7tT+wU=
